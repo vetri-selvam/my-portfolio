@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Pranav H",
+  name: "Vetri Selvam P",
   roles: [
     "Full Stack Developer",
     "Java Developer",
@@ -7,10 +7,10 @@ export const Bio = {
   ],
   description:
     " Enthusiastic recent graduate eager to apply my technical skills and learn while contributing to the success of the organization in a collaborative and dynamic environment.",
-  github: "https://github.com/pranavh002",
+  github: "https://github.com/vetri-selvam",
   resume:"https://drive.google.com/file/d/1pxUVMzfDXYoLHjULcsepDvStU4_7Pih0/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/pranav-h-402780232/",
-  email:"pranavh002@gmail.com"
+  linkedin: "https://www.linkedin.com/in/vetri-selvam-298338268/",
+  email:"vetripariven@gmail.com"
 };
 
 export const skills = [
