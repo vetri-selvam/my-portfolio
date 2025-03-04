@@ -85,7 +85,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Pranav H</Logo>
+        <Logo>Vetri Selvam</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ function Footer() {
             <GitHubIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>© 2025 Pranav H. All Rights Reserved.</Copyright>
+        <Copyright>© 2025 Vetri Selvam. All Rights Reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );

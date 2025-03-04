@@ -8,7 +8,7 @@ export const Bio = {
   description:
     " Enthusiastic recent graduate eager to apply my technical skills and learn while contributing to the success of the organization in a collaborative and dynamic environment.",
   github: "https://github.com/vetri-selvam",
-  resume:"https://drive.google.com/file/d/1pxUVMzfDXYoLHjULcsepDvStU4_7Pih0/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1PoMc38Y-AKtvnTOagUSEGtKJyVNhhU3o/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vetri-selvam-298338268/",
   email:"vetripariven@gmail.com"
 };
@@ -137,23 +137,23 @@ export const education = [
           id: 0,
           school: "Misrimal Navajee Munoth Jain Engineering College",
           date: "June 2024",
-          grade: "8.98 CGPA",
-        //   desc: "Completed Bachelor's in Computer Science with a CGPA of 8.98, covering core computer science subjects.",
+          grade: "8.29 CGPA",
+        //   desc: "Completed Bachelor's in Computer Science with a CGPA of 8.2, covering core computer science subjects.",
           degree: "Bachelor of Engineering - B.E., Computer Science"
         },
         {
           id: 1,
-          school: "Our Lady Higher Secondary School",
+          school: "Prince Matric. Higher Secondary School",
           date: "April 2020",
-          grade: "80%",
+          grade: "64.5%",
         //   desc: "Completed HSC (Computer Science) with a focus on programming and computer applications.",
           degree: "HSC, Computer Science"
         },
         {
           id: 2,
-          school: "Our Lady Higher Secondary School",
+          school: "Montfort Matric. Higher Secondary School",
           date: "April 2018",
-          grade: "90.4%",
+          grade: "89.6%",
         //   desc: "Completed SSLC with strong academic performance.",
           degree: "SSLC"
         }
@@ -171,32 +171,32 @@ export const projects = [
     image: "https://raw.githubusercontent.com/Pranavh002/NPVR-Cart/refs/heads/main/frontend/public/images/NPVR%20Website.jpg",
     tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Bootstrap", "Git"],
     category: "web app",
-    github: "https://github.com/Pranavh002/NPVR-Cart",
+    github: "https://github.com/vetri-selvam/npvr",
     // webapp: "https://npvr-cart-website.com",
   },
   {
     id: 1,
-    title: "Military Defense System (MDS) with Surveillance Bot (IoT)",
+    title: "YouTube Comments Spam Detection with Augmented Data",
     date: "Jan 2024 - May 2024",
     description:
-      "Constructed an IoT surveillance system with Arduino UNO, NodeMCU, and servo motors, synchronized with the BlynkIoT app to control a mobile bot for detecting unauthorized entries at military borders. Built a web interface using the MERN stack for military personnel to monitor live feeds, adjust system settings, and track threats in real-time. Gained experience integrating IoT hardware, machine learning models, and full-stack web technologies.",
+      "Developed an intelligent system utilizing neural network architecture and BERT vectorization to accurately identify and classify spam comments on YouTube.",
     image: "https://raw.githubusercontent.com/Pranavh002/ProjectImages/refs/heads/main/MDS%20With%20Surveillance%20Bot.png",
-    tags: ["Arduino", "NodeMCU", "ESP32 Cam", "ML Model", "MERN Stack", "Java", "Git"],
-    category: "IoT",
-    github: "https://github.com/RajeshR10/Military-Defense-System-Final-Year-Project-",
-    webapp: "https://mds-surveillance.com",
+    tags: ["AI", "React.js", "Node.js", "Express.js", "Neural Network", "BERT Vectorization"],
+    category: "AI/ML",
+    github: "",
+    webapp: "",
   },
   {
-    id: 2,
-    title: "Mushroom Classification Analysis (AI)",
-    date: "Mar 2023 - Jun 2023",
-    description:
-      "Developed a mushroom classification system using Convolutional Neural Networks (CNNs) and transfer learning to classify images into Boletus, Lactarius, and Russula species. Designed a user-friendly interface with HTML, CSS, and JavaScript, enhancing user experience. Implemented Flask for backend operations, managing the deep learning model in Python and ensuring seamless communication between frontend and backend.",
-    image: "https://raw.githubusercontent.com/Pranavh002/ProjectImages/refs/heads/main/Mushroom%20Classification%20Webpage.jpg",
-    tags: ["Deep Learning", "CNN", "Transfer Learning", "Flask", "Python", "HTML", "CSS", "JavaScript", "Git"],
-    category: "AI/ML",
-    github: "https://github.com/Pranavh002/Mushroom-Classification--AI---Project",
-    webapp: "https://mushroom-classifier.com",
+    // id: 2,
+    // title: "Mushroom Classification Analysis (AI)",
+    // date: "Mar 2023 - Jun 2023",
+    // description:
+    //   "Developed a mushroom classification system using Convolutional Neural Networks (CNNs) and transfer learning to classify images into Boletus, Lactarius, and Russula species. Designed a user-friendly interface with HTML, CSS, and JavaScript, enhancing user experience. Implemented Flask for backend operations, managing the deep learning model in Python and ensuring seamless communication between frontend and backend.",
+    // image: "https://raw.githubusercontent.com/Pranavh002/ProjectImages/refs/heads/main/Mushroom%20Classification%20Webpage.jpg",
+    // tags: ["Deep Learning", "CNN", "Transfer Learning", "Flask", "Python", "HTML", "CSS", "JavaScript", "Git"],
+    // category: "AI/ML",
+    // github: "https://github.com/Pranavh002/Mushroom-Classification--AI---Project",
+    // webapp: "https://mushroom-classifier.com",
   }
 ];
 
